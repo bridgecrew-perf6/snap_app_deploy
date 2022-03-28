@@ -1,0 +1,7 @@
+.highScoreBoard {
+    display: inline-flex;
+}
+
+.individual-player {
+    display: inline-flex;
+}

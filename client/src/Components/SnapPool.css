@@ -1,0 +1,64 @@
+
+
+.card1 {
+    /* grid-column-start: 1; */
+    position: fixed;
+    z-index: 4;
+    height: 314px;
+    width: 226px;
+    margin: auto;
+    place-self: center;
+}
+
+.card2 {
+    /* grid-column-start: 2; */
+    /* top: 0.2;
+    left: 0.2; */
+    position: fixed;
+    z-index: 3;
+    transform: rotate(330deg); 
+    height: 314px;
+    width: 226px;
+    margin: auto;
+    place-self: center;
+}
+
+.card3 {
+    position: fixed;
+    z-index: 2;
+    transform: rotate(300deg); 
+    height: 314px;
+    width: 226px;
+    margin: auto;
+    place-self: center;
+}
+
+.card4 {
+    position: fixed;
+    z-index: 1;
+    transform: rotate(280deg); 
+    height: 314px;
+    width: 226px;
+    margin: auto;
+    place-self: center;
+}
+
+.card5 {
+    position: fixed;
+    z-index: 1;
+    transform: rotate(260deg); 
+    height: 314px;
+    width: 226px;
+    margin: auto;
+    place-self: center;
+}
+
+.card6 {
+    position: fixed;
+    z-index: 1;
+    transform: rotate(250deg); 
+    height: 314px;
+    width: 226px;
+    margin: auto;
+    place-self: center;
+}
